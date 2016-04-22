@@ -1,10 +1,10 @@
-package elarib.webserver.controller;
+package elarib.webserver.controllers;
 
 import java.util.List;
 import java.util.Map;
 
-import elarib.webserver.HttpRequest;
-import elarib.webserver.HttpResponse;
+import elarib.webserver.requests.HttpRequest;
+import elarib.webserver.requests.HttpResponse;
 import elarib.webserver.views.RenderingException;
 import elarib.webserver.views.View;
 

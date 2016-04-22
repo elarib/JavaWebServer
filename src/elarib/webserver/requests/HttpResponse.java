@@ -1,4 +1,4 @@
-package elarib.webserver;
+package elarib.webserver.requests;
 
 
 public class HttpResponse {

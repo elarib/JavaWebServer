@@ -1,4 +1,4 @@
-package elarib.webserver.controller;
+package elarib.webserver.controllers;
 
 public class ControllerException extends RuntimeException {
 

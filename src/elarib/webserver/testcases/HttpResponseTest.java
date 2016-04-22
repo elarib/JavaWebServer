@@ -1,5 +1,5 @@
 package elarib.webserver.testcases;
-import elarib.webserver.HttpResponse;
+import elarib.webserver.requests.HttpResponse;
 import junit.framework.TestCase;
 
 public class HttpResponseTest extends TestCase {

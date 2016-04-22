@@ -1,4 +1,4 @@
-package elarib.webserver;
+package elarib.webserver.requests;
 
 import java.util.Collections;
 import java.util.HashMap;
