@@ -1,3 +1,5 @@
+package elarib.webserver;
+
 
 public class HttpResponse {
 	
@@ -16,6 +18,13 @@ public class HttpResponse {
 		body = builder.body;
 		responseCode = builder.responseCode;
 	}
+	
+//	// ToString 
+//
+//	@Override
+//	public String toString() {
+//		return "HttpResponse [body=" + body + ", responseCode=" + responseCode + "]";
+//	}
 	
 	
 	// I encapsulate all mutability inside the builder object
@@ -42,5 +51,6 @@ public class HttpResponse {
 		}
 		
 	}
+
 
 }
